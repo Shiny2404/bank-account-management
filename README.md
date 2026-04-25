@@ -1,6 +1,4 @@
-﻿# bank-account-management
-
-# Bank Management System (Python)
+﻿# Bank Management System (Python)
 
 A simple Python-based Bank Management System project that simulates basic banking operations through a user-friendly program.
 
